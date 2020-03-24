@@ -1,0 +1,6 @@
+/usr/local/lib/libfacedetection.a
+/usr/local/include/facedetection/facedetectcnn.h
+/usr/local/include/facedetection/facedetection_export.h
+/usr/local/lib/cmake/facedetectionConfig.cmake
+/usr/local/lib/cmake/facedetectionConfig-noconfig.cmake
+/usr/local/lib/cmake/libfacedetectionConfigVersion.cmake

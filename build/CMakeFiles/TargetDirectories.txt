@@ -1,0 +1,10 @@
+/root/download/libfacedetection/build/CMakeFiles/rebuild_cache.dir
+/root/download/libfacedetection/build/CMakeFiles/edit_cache.dir
+/root/download/libfacedetection/build/CMakeFiles/list_install_components.dir
+/root/download/libfacedetection/build/CMakeFiles/install/local.dir
+/root/download/libfacedetection/build/CMakeFiles/facedetection.dir
+/root/download/libfacedetection/build/CMakeFiles/detect-camera-demo.dir
+/root/download/libfacedetection/build/CMakeFiles/benchmark.dir
+/root/download/libfacedetection/build/CMakeFiles/detect-image-demo.dir
+/root/download/libfacedetection/build/CMakeFiles/install.dir
+/root/download/libfacedetection/build/CMakeFiles/install/strip.dir
